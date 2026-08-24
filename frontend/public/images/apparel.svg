@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="apparel-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="12" fill="url(#apparel-grad)" opacity="0.1" />
+  <rect width="98" height="98" x="1" y="1" rx="11" fill="none" stroke="url(#apparel-grad)" stroke-width="1.5" opacity="0.4" />
+  <!-- T-Shirt Icon -->
+  <path d="M30 20h10a4 4 0 0 1 4 4 6 6 0 0 0 12 0 4 4 0 0 1 4-4h10c4 0 7 3 7 7l-4 15a4 4 0 0 1-4 3h-5v30c0 3-2 5-5 5H41c-3 0-5-2-5-5V45h-5a4 4 0 0 1-4-3l-4-15c0-4 3-7 7-7z" fill="none" stroke="url(#apparel-grad)" stroke-width="3.5" stroke-linejoin="round" />
+</svg>

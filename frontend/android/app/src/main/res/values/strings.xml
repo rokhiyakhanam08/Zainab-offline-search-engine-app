@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Zainab Online Shopping</string>
+    <string name="title_activity_main">Zainab Online Shopping</string>
+    <string name="package_name">com.zainab.onlineshopping</string>
+    <string name="custom_url_scheme">com.zainab.onlineshopping</string>
+</resources>
